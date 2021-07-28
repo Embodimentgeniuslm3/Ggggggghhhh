@@ -1,0 +1,32 @@
+- name: About managing organizations 
+  href: organization-management.md 
+- name: Plan your organizational structure
+  href: ../../user-guide/plan-your-azure-devops-org-structure.md?toc=/azure/devops/organizations/toc.json&bc=/azure/devops/organizations/breadcrumb/toc.json
+- name: Create your organization 
+  href: create-organization.md 
+- name: Add and manage banners 
+  href:  ../settings/manage-banners.md 
+- name: Adjust organization settings
+  items:
+  - name: Add privacy policy URL
+    href: add-privacy-policy-url.md 
+  - name: Change time zone
+    href: change-time-zone.md
+  - name: Change organization region
+    href: change-organization-location.md
+  - name: Change organization Owner
+    href: change-organization-ownership.md
+- name: Manage your organization 
+  items:
+  - name: Rename organization
+    href: rename-organization.md 
+  - name: Delete organization
+    href: delete-your-organization.md
+  - name: Recover organization
+    href: recover-your-organization.md
+  - name: Restrict organization creation
+    href: azure-ad-tenant-policy-restrict-org-creation.md
+  - name: Resolve orphaned organization
+    href: resolve-orphaned-organization.md
+
+

@@ -1,0 +1,2 @@
+#!/bin/sh
+source $(git rev-parse --show-toplevel)/tools/scripts/commit-msg.sh

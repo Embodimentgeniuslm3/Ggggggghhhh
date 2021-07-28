@@ -1,0 +1,14 @@
+- name: Install an extension
+  href: install-extension.md
+- name: Request and approve an extension
+  href: request-extensions.md
+- name: Install an extension on-premises
+  href: get-tfs-extensions.md
+- name: Uninstall or disable extensions
+  href: uninstall-disable-extensions.md
+- name: Evaluate a Marketplace extension
+  href: trust.md
+- name: Manage extension permissions
+  href: how-to/grant-permissions.md
+- name: FAQs about extensions
+  href: faq-extensions.yml

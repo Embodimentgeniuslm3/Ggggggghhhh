@@ -1,0 +1,34 @@
+- name: Integrate applications
+  href: index.md?toc=/azure/devops/marketplace-extensibility/toc.json&bc=/azure/devops/marketplace-extensibility/breadcrumb/toc.json
+- name: Get started
+  items:
+    - name: Create a bug
+      href: quickstarts/create-bug-quickstart.md
+    - name: Query work items
+      href: quickstarts/work-item-quickstart.md
+    - name: Best practices
+      href: ./concepts/integration-bestpractices.md
+    - name: Service hooks
+      href: ./concepts/service-hooks.md
+    - name: Create service hooks subscriptions programmatically
+      href: ../service-hooks/create-subscription.md
+    - name: Call REST API
+      href: how-to/call-rest-api.md
+    - name: REST API versioning
+      href: ./concepts/rest-api-versioning.md
+    - name: .NET client libraries
+      href: ./concepts/dotnet-client-libraries.md
+    - name: Cross-origin resource sharing
+      href: ./concepts/cross-origin-resource-sharing.md
+- name: Samples
+  items:
+    - name: .NET
+      href: get-started/client-libraries/samples.md
+    - name: .NET (Legacy)
+      href: get-started/client-libraries/soapSamples.md
+    - name: REST API Samples
+      href: get-started/rest/samples.md
+    - name: Create a PR status server
+      href: ../repos/git/create-pr-status-server.md?toc=/azure/devops/marketplace-extensibility/toc.json&bc=/azure/devops/marketplace-extensibility/breadcrumb/toc.json
+    - name: Use Azure Functions to create custom branch policies
+      href: ../repos/git/create-pr-status-server-with-azure-functions.md?toc=/azure/devops/marketplace-extensibility/toc.json&bc=/azure/devops/marketplace-extensibility/breadcrumb/toc.json
